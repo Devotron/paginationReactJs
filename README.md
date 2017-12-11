@@ -1,11 +1,11 @@
-Pagination ReactJS
+# Pagination ReactJS
 
-# Installation
+### Installation
 
 - git clone ce .git
 - npm install
 
-# Demarrage
+### Demarrage
 
 - npm start
 
